@@ -1,6 +1,8 @@
 # Proposta do curso:
 
-Curso foi desenvolvido para a comunidade **Pyladies SP** realizando a comparação entre as funções do Excel e o Python.
+O curso foi desenvolvido para a comunidade **Pyladies SP** realizando a comparação entre as funções do Excel e o Python.
+
+O primeiro workshop foi realizado em 07-03-2020 e o segudndo 12-03-2022.
 
 ## Conteúdo proposto:
 
