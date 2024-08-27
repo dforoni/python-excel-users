@@ -2,7 +2,7 @@
 
 O curso foi desenvolvido para a comunidade **Pyladies SP** realizando a comparação entre as funções do Excel e o Python.
 
-O primeiro workshop foi realizado em 07-03-2020 e o segudndo 12-03-2022.
+O primeiro workshop foi realizado em 07-03-2020, o segudndo 12-03-2022 e o terceiro em 29-08-2024.
 
 ## Conteúdo proposto:
 
@@ -41,5 +41,9 @@ Salvando os dados para um arquivo CSV/EXCEL
 **Nota**
 
 O curso foi pensado para pessoas iniciantes em Python, mas que tenham noção de Excel ou Google Sheet.
+
+Os conteúdos estão gravados no canal do YT das Pyladies SP.
+
+[Canal Youtube](https://www.youtube.com/watch?app=desktop&v=hhNV6oJrHBQ)
 
 ![logo](https://user-images.githubusercontent.com/20840723/155858334-105f129b-9bcf-4286-b19e-edecd68420a1.png)
